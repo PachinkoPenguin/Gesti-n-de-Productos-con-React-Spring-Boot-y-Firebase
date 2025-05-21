@@ -1,2 +1,21 @@
+<<<<<<< HEAD
 back/demo/src/main/resources/firebase-service-account.json
 back/demo/src/main/resources/firebase-service-account.json
+=======
+# Firebase credentials
+back/demo/src/main/resources/firebase-service-account-key.json
+*-firebase-adminsdk-*.json
+serviceAccount.json
+credentials/*.json
+
+# IDE files
+.vscode/
+.idea/
+
+# Build artifacts
+target/
+build/
+out/
+dist/
+node_modules/
+>>>>>>> 8418d4a (Second commit with clean history)
